@@ -13,7 +13,7 @@ Technical Writer | Developer Education
   
 📚 **Specialties:** User guides, API Docs, SDLC documentation, training videos  
 
-**Agile & PM Tools:** Confluence, Draw.io, Jira, LucidChart, Planview Agile Place, ServiceNow, SharePoint, Smartsheet, Trello, Visio, Zendesk  
+**Agile & PM Tools:** Confluence, Draw.io, Git, Jira, LucidChart, Planview Agile Place, ServiceNow, SharePoint, Smartsheet, Trello, Visio, Zendesk  
 **Cybersecurity Tools:** Acunetix 360, Archer, Ardoq, Axonius, Nucleus  
 **Documentation:** SDLC documentation, SOPs, SLAs, user guides, admin guides, requirements, customer personas  
 **Microsoft Office Suite:** Excel, Outlook, PowerPoint, Project, Word  
