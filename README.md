@@ -5,7 +5,7 @@ Technical Writer | Developer Education
 * Strategic communicator and analyst with over a decade of experience making complicated technical information accessible to diverse audiences. 
 * Well-versed in agile development methodologies from developer, product management, and technical writing perspectives. 
 * Proven talent for teasing out previously overlooked details crucial to achieving project goals. 
-* Versatile technical writer recognized for rapidly mastering new platforms and producing the high-impact documentation. 
+* Versatile technical writer recognized for rapidly mastering new platforms and then producing high-impact documentation. 
   
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teresahussein)**  
 ✍ **[Portfolio](https://www.teresahussein.com)**
