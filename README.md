@@ -11,14 +11,13 @@ Technical Writer | Developer Education
 ✍ **[Portfolio](https://www.teresahussein.com)**
   
   
-📚 **Specialties:** User guides, API Docs, SDLC documentation  
-  
-**Skills & Tools**
-**Technical:** CSS, HTML, JavaScript, Oracle CMS, PL/SQL, troubleshooting Java Apps  
-**Documentation:** SDLC documentation, SOPs, SLAs, User guides, Admin Guides  
-**Cybersecurity Tools:** Acunetix 360, Archer, Ardoq, Axonius, Nucleus  
-**Agile & PM Tools:** Confluence, Draw.io, Jira, LucidChart, Planview Agile Place, ServiceNow, SharePoint, Smartsheet, Trello, Visio, Zendesk  
+📚 **Specialties:** User guides, API Docs, SDLC documentation, training videos  
 
+**Agile & PM Tools:** Confluence, Draw.io, Jira, LucidChart, Planview Agile Place, ServiceNow, SharePoint, Smartsheet, Trello, Visio, Zendesk  
+**Cybersecurity Tools:** Acunetix 360, Archer, Ardoq, Axonius, Nucleus  
+**Documentation:** SDLC documentation, SOPs, SLAs, user guides, admin guides, requirements, customer personas  
+**Microsoft Office Suite:** Excel, Outlook, PowerPoint, Project, Word  
+**Technical:** CSS, HTML, JavaScript, Oracle CMS, PL/SQL, troubleshooting Java Apps  
 
 <!--
 **thcodem/thcodem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
